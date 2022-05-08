@@ -10,3 +10,11 @@ But you may want to test it by
 python textCNN.py
 ```
 read the requirement.txt before you try to run the python script.
+
+## Crawl tweet
+
+run nlpKaggleTask1_tweet1.ipynb to crawl data
+
+##
+
+Analysation is in the nlpKaggleTask2Analysis.ipynb
